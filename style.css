@@ -1,0 +1,23 @@
+header, .contacto{
+    width: 100vw;
+    height: 100vh;
+    
+    
+   
+}
+
+.foto{
+    width: 30%;
+    margin-top: 10%;
+   
+    border-radius: 50%;
+   
+}
+
+header, .contacto{
+    background-color: #530eb3;
+    color: white;
+}
+::-webkit-scrollbar {
+    display: none;
+}
